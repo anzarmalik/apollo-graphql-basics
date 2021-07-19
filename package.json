@@ -1,0 +1,15 @@
+{
+  "name": "apollo-graphql-basics",
+  "version": "1.0.0",
+  "description": "playing with apollo graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anzar",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.0.1",
+    "nodemon": "^2.0.12"
+  }
+}
